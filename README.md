@@ -24,7 +24,7 @@ Due to nature of the research project, the source code is not available for this
 ## Screenshots
 Inventory system.
 
-![](output.gif)
+<img src="output.gif" width="640">
 
 Example of a task.
 
@@ -32,7 +32,7 @@ Example of a task.
 
 Controller and object highlighting.
 
-![](out31.png)
+![](out3.png)
 
 Statistics display (also saved to csv).
 
