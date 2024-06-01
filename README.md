@@ -1,7 +1,7 @@
 # VR Security Training Simulation
 
 ## Demonstration
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iBPsW_D2BDA?si=5xHFEr3fZAxPd3vP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Video demonstration available here: [https://www.youtube.com/watch?v=iBPsW_D2BDA](https://www.youtube.com/watch?v=iBPsW_D2BDA)
 
 ## Description
 This project was created as part of a research project with the University of Kent. The purpose of the VR environment is to teach new security guards the basics of a typical patrol. The environment was designed to test the user's situational awareness and understanding of correct procedure.
@@ -28,27 +28,27 @@ Inventory system.
 
 Example of a task.
 
-![](out6 Medium.png)
+![](out6.png)
 
 Controller and object highlighting.
 
-![](out31 Medium.png)
+![](out31.png)
 
 Statistics display (also saved to csv).
 
-![alt text](out221 Medium.png)
+![alt text](out221.png)
 
 Example of a task.
 
-![](out73 Medium.png)
+![](out73.png)
 
 Example of a task.
 
-![](out94 Medium.png)
+![](out94.png)
 
 Menu display.
 
-![](out186 Medium.png)
+![](out186.png)
 
 ## Attributions
 
