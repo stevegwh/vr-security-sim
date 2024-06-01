@@ -1,22 +1,58 @@
-# VR-Security-Sim
-[Video Link of Demonstration](https://drive.google.com/file/d/1wdNJdLFGxVVju8xZK8pdV7YnuYJXDa3y/view?usp=sharing)
+# VR Security Training Simulation
 
-(Sound begins at 0:50)
+## Demonstration
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iBPsW_D2BDA?si=5xHFEr3fZAxPd3vP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Overview
-This project was created to teach new security guards the basics of a patrol and to give instructors the ability to assess their knowledge and progress. The simulation was created using Unity3D and the SteamVR SDK.
+## Description
+This project was created as part of a research project with the University of Kent. The purpose of the VR environment is to teach new security guards the basics of a typical patrol. The environment was designed to test the user's situational awareness and understanding of correct procedure.
+
+The training environment was created using Unity and the SteamVR SDK.
+
+Due to nature of the research project, the source code is not available for this project.
 
 ### Features
 
-- Individual user profiles and statistics.
+- Individual persistent user profiles and statistics.
+- Multiple individual randomised hazards.
 - Task management system in which users must complete multiple tasks to complete an object.
-- In-game voice recording.
-- Instructors can record trainee interaction with simulation as a video file and review later.
+- In-game voice recording and playback.
+- Instructors can record trainee interaction with simulation as a video file and later review.
 - Statistics saved as CSV file for instructors to review later.
 - Tutorial system with Text-to-Speech voice.
 - Inventory system in which users can add and remove virtual objects from the world around them.
 
+## Screenshots
+Inventory system.
 
-I did not create any of the assets present in the demonstration.
+![](output.gif)
 
-(NOTE: due to nature of the research project I am unable to share the source code.)
+Example of a task.
+
+![](out6 Medium.png)
+
+Controller and object highlighting.
+
+![](out31 Medium.png)
+
+Statistics display (also saved to csv).
+
+![alt text](out221 Medium.png)
+
+Example of a task.
+
+![](out73 Medium.png)
+
+Example of a task.
+
+![](out94 Medium.png)
+
+Menu display.
+
+![](out186 Medium.png)
+
+## Attributions
+
+I did not create any of the 3D assets present in the demonstration.
+
+
+
